@@ -6,20 +6,28 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [strings](#strings) (1)
+- [implementation](#implementation) (1)
+- [strings](#strings) (2)
 
 ---
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/yugshah1b/Java-Programs/blob/HEAD/59/A%20-%20Word/solution.java) |
 
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/yugshah1b/Java-Programs/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/yugshah1b/Java-Programs/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 
 ---
