@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 4 |
+| 10 | 4 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (1)
 - [implementation](#implementation) (8)
-- [math](#math) (1)
+- [math](#math) (2)
 - [strings](#strings) (6)
 
 ---
@@ -43,6 +43,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 21](https://github.com/yugshah1b/Java-Programs/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/yugshah1b/Java-Programs/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 
 ### strings
 
